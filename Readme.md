@@ -7,11 +7,11 @@ data folder structure:
 ```
 +-- data
 |   +-- train
-|	|	+-- 0.jpg
-|	|	...
+|   |   +-- 0.jpg
+|   |   ...
 |   +-- test
-|	|	+-- 450.jpg
-|	|	...
+|   |   +-- 450.jpg
+|   |   ...
 |   +-- train.csv
 |   +-- test.csv
 
