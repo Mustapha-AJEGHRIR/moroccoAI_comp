@@ -14,6 +14,7 @@ data folder structure:
 |   |   ...
 |   +-- train.csv
 |   +-- test.csv
+|   +-- sample_submission.csv
 
 ```
 
